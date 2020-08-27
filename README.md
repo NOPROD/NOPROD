@@ -6,11 +6,14 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noprod&layout=compact&hide=html&theme=tokyonight" alt="noprod" /></p>
 
-![](https://img.shields.io/badge/JavaScript-⭐⭐⭐⭐⭐-informational?style=flat&logoColor=white&color=34ebeb&logo=data:image/svg%2bxml;base64,)
 
-![](https://img.shields.io/badge/Angular-⭐⭐⭐⭐⭐-informational?style=flat&logoColor=white&color=2bbc8a&logo=data:image/svg%2bxml;base64,) ![](https://img.shields.io/badge/VueJs-⭐⭐⭐⭐⭐-informational?style=flat&logoColor=white&color=2bbc8a&logo=data:image/svg%2bxml;base64,)
+<h1 align="center">Skills :star:</h1>
 
-![](https://img.shields.io/badge/NodeJS-⭐⭐⭐⭐⭐-informational?style=flat&logo=data:image/svg%2bxml;base64,) ![](https://img.shields.io/badge/Kotlin-⭐⭐⭐⭐-informational?style=flat&logo=data:image/svg%2bxml;base64,) ![](https://img.shields.io/badge/Java-⭐⭐⭐-informational?style=flat&logo=data:image/svg%2bxml;base64,)
+<p align="center"> <img src="https://img.shields.io/badge/JavaScript-⭐⭐⭐⭐⭐-informational?style=flat&logoColor=white&color=34ebeb&logo=data:image/svg%2bxml;base64,"/> <img src="https://img.shields.io/badge/TypeScript-⭐⭐⭐⭐⭐-informational?style=flat&logoColor=white&color=34ebeb&logo=data:image/svg%2bxml;base64,"/></p>
+
+<p align="center"> <img src="https://img.shields.io/badge/Angular-⭐⭐⭐⭐⭐-informational?style=flat&logoColor=white&color=2bbc8a&logo=data:image/svg%2bxml;base64,"/> <img src="https://img.shields.io/badge/VueJs-⭐⭐⭐⭐⭐-informational?style=flat&logoColor=white&color=2bbc8a&logo=data:image/svg%2bxml;base64,)"/> <img src="https://img.shields.io/badge/Java-⭐⭐⭐-informational?style=flat&logo=data:image/svg%2bxml;base64,"/></p>
+
+<p align="center"> <img src="https://img.shields.io/badge/NodeJS-⭐⭐⭐⭐⭐-informational?style=flat&logo=data:image/svg%2bxml;base64,"/> <img src="https://img.shields.io/badge/Kotlin-⭐⭐⭐⭐-informational?style=flat&logo=data:image/svg%2bxml;base64,"/> <img src=""/></p>
 
 
 <p align="center">
