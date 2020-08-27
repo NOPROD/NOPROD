@@ -2,10 +2,7 @@
 <h1 align="center">Hi 👋, I'm Boucham Amine</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=noprod" alt="noprod" /> </p>
 
-[![NOPROD's github stats](https://github-readme-stats.vercel.app/api?username=NOPROD&count_private=true&show_icons=true&theme=tokyonight)]()
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noprod&layout=compact&hide=html&theme=tokyonight" alt="noprod" /></p>
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=NOPROD&count_private=true&show_icons=true&theme=tokyonight" alt="noprod" /> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=noprod&layout=compact&hide=html&theme=tokyonight" alt="noprod" /></p>
 
 <h1 align="center">Skills :star:</h1>
 
