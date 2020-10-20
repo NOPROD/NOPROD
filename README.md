@@ -19,4 +19,4 @@
 <a href="https://www.youtube.com/channel/UCWATiwMlNxlbyGIuWBs__sQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="blzbla" height="30" width="30" /></a>
 </p>
 
-<img src="https://readme-jokes.noprod.vercel.app/api" alt="Jokes Card" />
+! [Jokes Card] (https://readme-jokes.noprod.vercel.app/api)
