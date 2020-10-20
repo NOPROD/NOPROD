@@ -18,7 +18,9 @@
 <a href="https://linkedin.com/in/amine-boucham" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="amine-boucham" height="30" width="30" /></a>
 <a href="https://www.youtube.com/channel/UCWATiwMlNxlbyGIuWBs__sQ" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="blzbla" height="30" width="30" /></a>
 </p>
+
 ![Jokes Card](https://readme-jokes-fu94ykmpg.vercel.app/api)
+
 <p>
 <img src="https://readme-jokes-fu94ykmpg.vercel.app/api" alt="Jokes Card" />
 </P>
